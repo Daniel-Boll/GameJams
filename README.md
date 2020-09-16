@@ -1,4 +1,4 @@
-# Weekly Game Jam - 166
+# Weekly Game Jam - 166 (Unity)
 https://itch.io/jam/weekly-game-jam-166
 
 ## Theme
