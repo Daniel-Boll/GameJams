@@ -1,2 +1,2 @@
 # GameJams
-Post the games I made here
+Switch branches to see other jams
